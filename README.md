@@ -1,2 +1,5 @@
-# reading-tips
-Keep Reading-Tips PDF Files
+# 读书笔记
+
+用于保存读书笔记的PDF文件
+
+1. 早起魔法
